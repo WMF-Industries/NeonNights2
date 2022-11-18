@@ -1,10 +1,11 @@
-name: "[acid]Neon[cyan]Nights [yellow]v7"
-displayName: "[acid]Neon[cyan]Nights [yellow]v7"
-author: !ereHyddeS
+name: "[acid]Neon[cyan]Nights [purple]2"
+displayName: "[acid]Neon[cyan]Nights [purple]2"
+author: WMF Industries
 description: "Makes Mindustry Dark Themed!
 
 Credits[white]:
 • !ereHyddeS, for making this out of boredom
+• WMF, for annoying everyone long enough to rework it
 • Antlrr, for contributing lots
 • Woop, for contributing few
 • Binonib, for contributing few
@@ -12,7 +13,7 @@ Credits[white]:
 • Gus, will come for you if you dare steal the mod or do anything similar
 
 Changelogs:
-• Hello there"
-version: "1.5"
-minGameVersion: "136"
+• Sussy baka!"
+version: "v2"
+minGameVersion: "137"
 hidden: "true"
