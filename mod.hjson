@@ -14,7 +14,10 @@ Credits[white]:
 
 Changelogs:
 • Ships, Tanks, and Mechs
-• Unfinished Alpha Release"
-version: "v2"
+• Unfinished Alpha Release
+
+Version:
+• 2.1 Alpha"
+version: "2.1"
 minGameVersion: "137"
 hidden: "true"
