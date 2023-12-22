@@ -7,7 +7,6 @@ Events.on(ClientLoadEvent, b  => {
 
     UnitTypes.cleroi.weapons.forEach(w => {
         w.bullet.hitColor = Color.valueOf("7485e8");
-        w.bullet.backColor = Color.valueOf("7485e8");
         w.bullet.trailColor = Color.valueOf("7485e8");
     })
 
@@ -23,14 +22,10 @@ Events.on(ClientLoadEvent, b  => {
     })
 
     
-    UnitTypes.tecta.weapons.forEach(w => {
+    UnitTypes.collaris.weapons.forEach(w => {
         w.bullet.hitColor = Color.valueOf("7485e8");
         w.bullet.backColor = Color.valueOf("7485e8");
         w.bullet.trailColor = Color.valueOf("7485e8");
         w.bullet.lightColor = Color.valueOf("7485e8");
-        w.bullet.fragBullet.trailColor = Color.valueOf("7485e8");
-        w.bullet.fragBullet.backColor = Color.valueOf("7485e8");
-        w.bullet.fragBullet.hitColor = Color.valueOf("7485e8");
-        w.bullet.fragBullet.lightColor = Color.valueOf("7485e8");
     })
 });

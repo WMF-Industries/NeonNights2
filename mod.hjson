@@ -13,11 +13,13 @@ Credits[white]:
 • Gus, will come for you if you dare steal the mod or do anything similar
 
 Changelogs:
-• Ships, Tanks, and Mechs
-• Unfinished Alpha Release
+• Serpulo animated turrets (finally)
+• Removed unused sprites
+• Cleaned up some code
+• Other minor fixes
 
 Version:
-• 2.1 Alpha"
-version: "2.1"
-minGameVersion: "137"
+• 2.2 Alpha"
+version: "2.2"
+minGameVersion: "145"
 hidden: "true"
