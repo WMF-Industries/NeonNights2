@@ -1,10 +1,10 @@
 Events.on(ClientLoadEvent, b  => {
-    UnitTypes.spiroct.weapons.forEach(w => {
+    UnitTypes.spiroct.weapons.each(w => {
         w.bullet.hitColor = Color.valueOf("f17afa")
         w.bullet.color = Color.valueOf("f17afa");
     });
 
-    UnitTypes.arkyid.weapons.forEach(w => {
+    UnitTypes.arkyid.weapons.each(w => {
         if(w.bullet instanceof SapBulletType){
             w.bullet.hitColor = Color.valueOf("f17afa");
             w.bullet.color = Color.valueOf("f17afa");
@@ -16,7 +16,7 @@ Events.on(ClientLoadEvent, b  => {
         }
     })
 
-    UnitTypes.toxopid.weapons.forEach(w => {
+    UnitTypes.toxopid.weapons.each(w => {
         if(w.bullet instanceof ShrapnelBulletType){
             w.bullet.fromColor = Color.valueOf("f17afa");
             w.bullet.toColor = Color.valueOf("7343bf");
